@@ -14,16 +14,16 @@ I lead a collaborative Roblox group focused on creative development and sharing 
 
 ## Skills & Technologies
 
-| Language / Tech | Proficiency |
-|-----------------|-------------|
-| ![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg) Lua           | Intermediate / Advanced      |
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript | Intermediate      |
-| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript | Intermediate      |
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5         | Advanced        |
-| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3           | Advanced        |
-| ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg) TailwindCSS | Intermediate    |
-| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) Bootstrap      | Intermediate    |
-| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) PHP             | Beginner / Intermediate      |
+| Language / Tech |
+|-----------------|
+| ![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg) Lua          
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript 
+| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript 
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5        
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3          
+| ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg) TailwindCSS
+| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) Bootstrap      
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) PHP            
 
 ---
 
@@ -41,9 +41,9 @@ I lead a collaborative Roblox group focused on creative development and sharing 
 
 ## Projects
 
-- **Roblox Creative Group** — Leading a community-driven group focusing on game development and digital creativity.  
-- **Put The Ladder (Roblox Game)** — Developed a multiplayer Roblox game emphasizing teamwork and strategy.  
-- *(Add more projects or links here)*
+- **Avery's Home** — Leading a community-driven group focusing on game development and digital creativity.  
+- **Option(Roblox Game)** This game is where the choice is yours; there will always be consequences or a reward for every action you take.
+
 
 ---
 
@@ -51,9 +51,9 @@ I lead a collaborative Roblox group focused on creative development and sharing 
 
 | Platform  | Link                         |
 |-----------|------------------------------|
-| Discord   | [Join my server](https://discord.gg/yourdiscordlink) |
-| Instagram | [@yourinstagram](https://instagram.com/yourinstagram) |
-| WhatsApp  | [+62 8xx-xxxx-xxxx](https://wa.me/yourwhatsappnumber) |
+| Discord   | [Join my server]( https://discord.gg/M8zJKHwYub) |
+| Instagram | [@yourinstagram](https://instagram.com/clvin.jose) |
+| WhatsApp  | [+62 8xx-xxxx-xxxx](https://wa.me/087797895571) |
 
 ---
 
