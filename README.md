@@ -52,8 +52,8 @@ I lead a collaborative Roblox group focused on creative development and sharing 
 | Platform  | Link                         |
 |-----------|------------------------------|
 | Discord   | [Join my server]( https://discord.gg/M8zJKHwYub) |
-| Instagram | [@yourinstagram](https://instagram.com/clvin.jose) |
-| WhatsApp  | [+62 8xx-xxxx-xxxx](https://wa.me/087797895571) |
+| Instagram | [@clvin.jose](https://instagram.com/clvin.jose) |
+| WhatsApp  | [+62 877-9789-5571](https://wa.me/087797895571) |
 
 ---
 
