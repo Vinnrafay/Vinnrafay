@@ -25,10 +25,8 @@ I'm a Student at <a href="https://smkpesat.sch.id/">Pesat Vocational High School
 and Also Check out my <a href="https://fayy-dev.vercel.app/">portfolio</a> to know more about me.<br/><br/>
 Thanks for reading, hope you have a productive day!
 </p>
-###
 
 <h3 data-importer="text" align="left">> Language and tools</h3>
-
 ###
 
 <div data-importer="techs" align="left">
