@@ -20,7 +20,8 @@
 
 <p data-importer="text" align="left">I'm Rafay, a game developer and coder driven by a passion for quality. I’ll be sharing some of my projects here as open-source, including game assets and various coding experiments. Thanks for reading hope you have a productive day!
 
-I am a student at [Pesat Vocational high school](https://smkpesat.sch.id/).</p>
+I am a student at [Pesat Vocational high school](https://smkpesat.sch.id/).
+Also, I have my portfolio if you wanna know more about me! [Rafay's Portfolio](https://fayy-dev.vercel.app/)</p>
 
 ###
 
