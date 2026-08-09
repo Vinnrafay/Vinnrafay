@@ -27,7 +27,6 @@ Thanks for reading, hope you have a productive day!
 </p>
 
 <h3 data-importer="text" align="left">> Language and tools</h3>
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
