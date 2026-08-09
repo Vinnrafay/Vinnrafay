@@ -18,11 +18,13 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Rafay, a game developer and coder driven by a passion for quality. I’ll be sharing some of my projects here as open-source, including game assets and various coding experiments. Thanks for reading hope you have a productive day!
-
-I am a student at [Pesat Vocational high school](https://smkpesat.sch.id/).
-Also, I have my portfolio if you wanna know more about me! [Rafay's Portfolio](https://fayy-dev.vercel.app/)</p>
-
+<p data-importer="text" align="left">
+Hi, I'm Rafay 👋 — a game developer and coder driven by a passion for quality.<br/>
+I share some of my projects here as open-source, including game assets and various coding experiments.<br/><br/>
+I'm a Student at <a href="https://smkpesat.sch.id/">Pesat Vocational High School</a><br/>
+and Also Check out my <a href="https://fayy-dev.vercel.app/">portfolio</a> to know more about me<br/><br/>
+Thanks for reading, hope you have a productive day!
+</p>
 ###
 
 <h3 data-importer="text" align="left">> Language and tools</h3>
