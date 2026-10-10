@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 data-importer="text" align="center">Halo, Saya Rafay Arvino Setiawan 👋</h1>
+<h1 data-importer="text" align="center">Halo, I'm Rafay!</h1>
 <p align="center"><strong>Software Engineer, Web Developer & Game Programmer</strong></p>
 
 ###
