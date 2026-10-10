@@ -11,7 +11,7 @@
 </div>
 
 <h1 data-importer="text" align="center">Halo, I'm Rafay!</h1>
-<p align="center"><strong>Software Engineer, Web Developer & Game Programmer</strong></p>
+<p align="center"><strong>Web & Game Developer</strong></p>
 
 ###
 
