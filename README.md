@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 data-importer="text" align="center">Rafay Arvino Setiawan 👋</h1>
+<h1 data-importer="text" align="center">Halo, Saya Rafay Arvino Setiawan 👋</h1>
 <p align="center"><strong>Software Engineer, Web Developer & Game Programmer</strong></p>
 
 ###
@@ -26,12 +26,6 @@ Explore my featured work and live projects on my <a href="https://fayy-dev.verce
 ###
 
 <h3 data-importer="text" align="left">> Languages & Tools</h3>
-
-<p data-importer="text" align="left">
-<em>Frontend & Backend:</em> JavaScript, Tailwind CSS, Laravel, Supabase, HTML5, CSS3, Lua.<br/>
-<em>Design & Workflow:</em> Figma, VS Code, Git, Android Studio, Postman.
-</p>
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma UI UX design" />
   <img width="12" />
