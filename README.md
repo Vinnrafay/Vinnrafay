@@ -19,7 +19,7 @@
 
 <p data-importer="text" align="left">
 Hi, I'm <strong>Rafay Arvino Setiawan</strong>! A web developer and game programmer/developer that loves exploring and trying out different stuff!<br/><br/>
-Currently studying Software Engineering but mostly Web Development at <a href="https://smkpesat.sch.id/" target="_blank">Pesat Vocational High School</a>. I share my open-source projects here and constantly experiment with modern full-stack technologies.<br/><br/>
+Currently studying Software Engineering but mostly Web Development at <a href="https://smkpesat.sch.id/" target="_blank">Pesat Vocational High School</a>. I share my open-source projects here and constantly experiment with modern full-stack technologies, and also I'm studying game dev by myself.<br/><br/>
 Explore my featured work and live projects on my <a href="https://fayy-dev.vercel.app/" target="_blank">Personal Portfolio</a>.
 </p>
 
